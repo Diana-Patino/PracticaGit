@@ -6,3 +6,5 @@ b = float(input("dame otro numero que quieras sumar"))
 print("el reultado de la suma es :")
 
 print(a+b)
+
+print()
